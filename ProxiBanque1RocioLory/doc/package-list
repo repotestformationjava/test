@@ -1,0 +1,5 @@
+org.ProxiBanque.dao
+org.ProxiBanque.model
+org.ProxiBanque.presentation
+org.ProxiBanque.service
+org.ProxiBanque.test
